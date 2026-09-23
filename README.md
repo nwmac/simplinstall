@@ -2,8 +2,8 @@
 
 Simple install for UI Extensions
 
-<!-- rancher-ui-extension-install
-
+<div style="visibility:hidden">
+type: rancher-ui-extension-install
 repositories:
   - name: extension-studio
     url: https://codyrancher.github.io/extension-studio
@@ -18,4 +18,4 @@ extensions:
   - dev-extension
   - agents
   - apps-plus
--->
+</div>
