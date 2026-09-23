@@ -3,6 +3,8 @@
 Simple install for UI Extensions
 
 <details>
+  <summary>Auto install information for Rancher UI</summary>
+  
 ```yaml
 type: rancher-ui-extension-install
 repositories:
