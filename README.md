@@ -2,7 +2,7 @@
 
 Simple install for UI Extensions
 
-<!--
+<details>
 ```yaml
 type: rancher-ui-extension-install
 repositories:
@@ -21,4 +21,4 @@ extensions:
   - apps-plus
 </div>
 ```
--->
+</details>
