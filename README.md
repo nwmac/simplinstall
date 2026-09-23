@@ -21,6 +21,5 @@ extensions:
   - dev-extension
   - agents
   - apps-plus
-</div>
 ```
 </details>
