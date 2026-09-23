@@ -2,7 +2,8 @@
 
 Simple install for UI Extensions
 
-<div style="visibility:hidden">
+<!--
+```yaml
 type: rancher-ui-extension-install
 repositories:
   - name: extension-studio
@@ -19,3 +20,5 @@ extensions:
   - agents
   - apps-plus
 </div>
+```
+-->
